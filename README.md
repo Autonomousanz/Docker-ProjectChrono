@@ -2,6 +2,8 @@
 
 Version 7.0.0 python 3.10
 This is customized docker image for projectchrono and pychrono users 
-[embed]http://example.com/file.pdf[/embed]
+
+
+[embed]HowToDocker_v1.pdf[/embed]
 
 
