@@ -13,6 +13,6 @@ This is customized docker image for projectchrono and pychrono users
 
 * There are additional post processing modules of MATLAB, POVRAY installed on the same image.
 
-*For all the instructions, refer to HowToDocker_v1.pdf version of file uploads.
+* For all the instructions, refer to HowToDocker_v1.pdf version of file uploads.
 
 
